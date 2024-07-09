@@ -19,5 +19,5 @@
 
 **I'm Maxime Bomme--Lasnier, a French software and web developer. I program mainly in Javascript.**
 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1V4x&theme=github_dark&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=Sh1V4x&show_icons=true&theme=github_dark&line_height=20) |
-|---|---|
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1V4x&theme=github_dark&layout=compact)  ![](https://github-readme-stats.vercel.app/api?username=Sh1V4x&show_icons=true&theme=github_dark&line_height=20) 
+
