@@ -15,10 +15,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximebommelasnier&theme=dark" alt="maximebommelasnier" /></p> -->
 
-### Hello World! 👋
-
-**I'm Maxime Bomme--Lasnier, a French software and web developer. I program mainly in Javascript.**
-
 <!--<h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">A passionate frontend developer from france</h3>
 
