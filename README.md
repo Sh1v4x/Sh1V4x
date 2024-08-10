@@ -34,7 +34,7 @@
 
 ### Hello World! 👋
 
-I'm a self-taught passionate FrontEnd developer from France
+I'm a self-taught passionate FullStack developer from France
 
 **About me**
 
